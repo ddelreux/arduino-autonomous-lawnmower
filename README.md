@@ -14,3 +14,20 @@ Features:
     ✅ Ideal for learning robotics and embedded programming
 
     
+
+## 🔧 Materials
+- Arduino Uno
+- Motor driver L298N
+- Ultrasonic sensor (HC-SR04)
+- DC motors, wheels, battery
+
+## 🚀 Features
+- Obstacle detection
+- Autonomous motion
+- Basic control logic in C
+
+## 📁 Project Structure
+- `src/` – Arduino source code
+- `images/` – Photos and diagrams
+- `hardware/` – Circuit schematics
+
